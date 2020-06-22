@@ -1,6 +1,12 @@
 C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2.Android\obj\Debug\81\android\assets\XamarinFinal2.Android.dll
 C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2.Android\obj\Debug\81\android\assets\FormsViewGroup.dll
 C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2.Android\obj\Debug\81\android\assets\Java.Interop.dll
+C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2.Android\obj\Debug\81\android\assets\Microsoft.AppCenter.Analytics.Android.Bindings.dll
+C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2.Android\obj\Debug\81\android\assets\Microsoft.AppCenter.Analytics.dll
+C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2.Android\obj\Debug\81\android\assets\Microsoft.AppCenter.Android.Bindings.dll
+C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2.Android\obj\Debug\81\android\assets\Microsoft.AppCenter.Crashes.Android.Bindings.dll
+C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2.Android\obj\Debug\81\android\assets\Microsoft.AppCenter.Crashes.dll
+C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2.Android\obj\Debug\81\android\assets\Microsoft.AppCenter.dll
 C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2.Android\obj\Debug\81\android\assets\Mono.Android.dll
 C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2.Android\obj\Debug\81\android\assets\mscorlib.dll
 C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2.Android\obj\Debug\81\android\assets\System.Core.dll

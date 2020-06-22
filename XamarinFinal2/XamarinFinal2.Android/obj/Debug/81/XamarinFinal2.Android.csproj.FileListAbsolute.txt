@@ -56,6 +56,7 @@ C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2.Android\bin
 C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
 C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2.Android\bin\Debug\System.ComponentModel.Composition.pdb
 C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2.Android\bin\Debug\System.Web.Services.pdb
+C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2.Android\bin\Debug\XamarinFinal2.dll.mdb
 C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2.Android\obj\Debug\81\linksrc\XamarinFinal2.Android.pdb
 C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2.Android\obj\Debug\81\linksrc\FormsViewGroup.pdb
 C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2.Android\obj\Debug\81\linksrc\Mono.Android.pdb
@@ -78,7 +79,6 @@ C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2.Android\obj
 C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2.Android\obj\Debug\81\linksrc\System.IO.Compression.FileSystem.pdb
 C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2.Android\obj\Debug\81\linksrc\System.ComponentModel.Composition.pdb
 C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2.Android\obj\Debug\81\linksrc\System.Web.Services.pdb
-C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2.Android\bin\Debug\XamarinFinal2.dll.mdb
 C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2.Android\obj\Debug\81\linksrc\XamarinFinal2.dll.mdb
 C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2.Android\obj\Debug\81\android\assets\XamarinFinal2.dll.mdb
 C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2.Android\obj\Debug\81\android\assets\FormsViewGroup.pdb

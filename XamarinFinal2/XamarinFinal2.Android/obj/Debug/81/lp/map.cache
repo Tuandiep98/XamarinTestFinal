@@ -1,6 +1,11 @@
-System.Runtime
-XamarinFinal2
 FormsViewGroup
+Microsoft.AppCenter.Analytics.Android.Bindings
+Microsoft.AppCenter.Analytics
+Microsoft.AppCenter.Android.Bindings
+Microsoft.AppCenter.Crashes.Android.Bindings
+Microsoft.AppCenter.Crashes
+Microsoft.AppCenter
+System.Runtime
 Xamarin.Android.Arch.Core.Common
 Xamarin.Android.Arch.Lifecycle.Common
 Xamarin.Android.Arch.Lifecycle.Runtime
@@ -24,10 +29,5 @@ Xamarin.Forms.Core
 Xamarin.Forms.Platform.Android
 Xamarin.Forms.Platform
 Xamarin.Forms.Xaml
+XamarinFinal2
 netstandard
-Microsoft.AppCenter.Android.Bindings
-Microsoft.AppCenter
-Microsoft.AppCenter.Analytics.Android.Bindings
-Microsoft.AppCenter.Analytics
-Microsoft.AppCenter.Crashes.Android.Bindings
-Microsoft.AppCenter.Crashes

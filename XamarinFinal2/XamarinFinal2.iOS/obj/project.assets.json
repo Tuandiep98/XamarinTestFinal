@@ -170,6 +170,7 @@
         "dependencies": {
           "Microsoft.AppCenter": "3.2.2",
           "Microsoft.AppCenter.Analytics": "3.2.2",
+          "Microsoft.AppCenter.Crashes": "3.2.2",
           "Xamarin.Forms": "3.4.0.1008975"
         },
         "compile": {
@@ -349,6 +350,7 @@
         "dependencies": {
           "Microsoft.AppCenter": "3.2.2",
           "Microsoft.AppCenter.Analytics": "3.2.2",
+          "Microsoft.AppCenter.Crashes": "3.2.2",
           "Xamarin.Forms": "3.4.0.1008975"
         },
         "compile": {
@@ -528,6 +530,7 @@
         "dependencies": {
           "Microsoft.AppCenter": "3.2.2",
           "Microsoft.AppCenter.Analytics": "3.2.2",
+          "Microsoft.AppCenter.Crashes": "3.2.2",
           "Xamarin.Forms": "3.4.0.1008975"
         },
         "compile": {
@@ -707,6 +710,7 @@
         "dependencies": {
           "Microsoft.AppCenter": "3.2.2",
           "Microsoft.AppCenter.Analytics": "3.2.2",
+          "Microsoft.AppCenter.Crashes": "3.2.2",
           "Xamarin.Forms": "3.4.0.1008975"
         },
         "compile": {
