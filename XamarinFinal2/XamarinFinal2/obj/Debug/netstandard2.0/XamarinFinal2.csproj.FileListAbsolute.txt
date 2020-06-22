@@ -11,6 +11,6 @@ C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2\obj\Debug\n
 C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2\obj\Debug\netstandard2.0\XamarinFinal2.csproj.CoreCompileInputs.cache
 C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2\obj\Debug\netstandard2.0\XamarinFinal2.AssemblyInfoInputs.cache
 C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2\obj\Debug\netstandard2.0\XamarinFinal2.AssemblyInfo.cs
-C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2\obj\Debug\netstandard2.0\XamarinFinal2.dll
 C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2\obj\Debug\netstandard2.0\XamarinFinal2.pdb
+C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2\obj\Debug\netstandard2.0\XamarinFinal2.csprojAssemblyReference.cache
