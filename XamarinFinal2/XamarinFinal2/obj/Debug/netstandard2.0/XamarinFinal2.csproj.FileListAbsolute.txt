@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2\bin\Debug\netstandard2.0\XamarinFinal2.deps.json
+C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2\bin\Debug\netstandard2.0\XamarinFinal2.dll
+C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2\bin\Debug\netstandard2.0\XamarinFinal2.pdb
+C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2\obj\Debug\netstandard2.0\XamarinFinal2.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2\obj\Debug\netstandard2.0\XamarinFinal2.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2\obj\Debug\netstandard2.0\XamarinFinal2.AssemblyInfo.cs
+C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2\obj\Debug\netstandard2.0\XamarinFinal2.dll
+C:\Users\USER\source\repos\XamarinFinal2\XamarinFinal2\XamarinFinal2\obj\Debug\netstandard2.0\XamarinFinal2.pdb
